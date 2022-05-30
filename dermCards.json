@@ -1,1 +1,353 @@
-const DATA = [{"img":"img33","description":["Lentigo = increase in basal melanin","Benign lesions occurring on sun exposed skin","Consists of elongated rete ridges with a reticular interconnected pattern (dirty socks) and basilar hyperpigmentation","Often associated with a mild increase in melanocytes"],"solution":"Solar Lentigo"},{"img":"img10","description":["Localized proliferation of melanocytes along the DEJ and within the dermis","Most conventional acquired nevi have mutations in BRAFV600E","Look for size (nevi should be relatively small), symmetry ((reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)","Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)","Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)","Pigment distribution in nevi should typically be even (not irregular or patchy)","Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis","Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)","Melanocytes within the dermis should exhibit “maturation” which involves a morphologic change from type A melanocytes more superficially to Type B and/or Type C melanocytes in the deepest portions",["Type A = large and epithelioid with a a tendency to nest","Type B = small lymphocyte-like","Type C = spindled with a neural look and dispersed single cell pattern","Staining for HMB45 can be used to evaluate maturation (should be strongly expressed in the superficial portion of the lesion and lost with increasing dermal depth in the presence of normal maturation)"],"Clinical clues to a benign nevus:",["Typically younger = more likely a nevus","Older age of the lesion = more likely a nevus","Location (melanocytic lesions situated on the milk line, on genitalia, acral skin, the ear, conjunctivae, scalp, breast, or flexural skin (ie special sites) are frequently benign despite the alarming histology)","Retained p16 expression"]],"solution":"Compound melanocytic nevus"},{"img":"img15","description":["Localized proliferation of melanocytes along the DEJ and within the dermis","Most conventional acquired nevi have mutations in BRAFV600E","Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)","Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)","Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)","Pigment distribution in nevi should typically be even (not irregular or patchy)","Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis","Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)","Melanocytes within the dermis should exhibit “maturation” which involves a morphologic change from type A melanocytes more superficially to wither Type B or Type C melanocytes in the deepest portions",["Type A = large and epithelioid with a a tendency to nest","Type B = small lymphocyte-like","Type C = spindled with a neural look and dispersed single cell pattern","Staining for HMB45 can be used to evaluate maturation (should be strongly expressed in the superficial portion of the lesion and lost with increasing dermal depth in the presence of normal maturation)"],"Clinical clues to a benign nevus:",["Typically younger = more likely a nevus","Older age of the lesion = more likely a nevus","Location (melanocytic lesions situated on the milk line, on genitalia, acral skin, the ear, conjunctivae, scalp, breast, or flexural skin (ie special sites) are frequently benign despite the alarming histology)","Retained p16 expression"]],"solution":"Intradermal melanocytic nevus"},{"img":"img28","description":["Melanocytic naevus composed of benign naevoid melanocytes in the epidermis and superficial dermis, presenting as a patch of hyperpigmented skin containing a variable number of darkly pigmented macules and papules","Histologic features: ","Background hyperpigmented patch = elongated hyperpigmented rete ridges with slightly increased numbers of melanocytes ",["Pigmented macules and papules = variable findings, including lentiginous junctional naevi, compound and intradermal naevi, compound or intradermal naevi with congenital features, Spitz naevi, blue naevi, and naevi with cytological atypia (dysplastic naevi)"]],"solution":"Nevus Spilus"},{"img":"img31","description":["Naevus that recurs after incomplete surgical removal, biopsy, or trauma","Histologic features: ",["Features of a classic nevus (either junctional, compound, or intradermal) associated with a dermal scar (parallel sclerotic collagen bundles with vertically oriented blood vessels and overlying attenuated rete ridges)","Atypical features can be seen overlying or within the area with scar (mitotic figures, cytologic atypia, and occasional pagetoid spread)"]],"solution":"Recurrent nevus"},{"img":"img14","description":["Nevus with circumferential depigmentation, often associated with a brisk lymphocytic infiltrate histopathologically","Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)","Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)","Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)","Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis","Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)"],"solution":"Halo nevus"},{"img":"img16","description":["Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia","Can be junctional or compound","General histologic features:",["Rete ridge bridging ","Architectural atypia",["Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)"],"Cytologic atypia",["Enlarged, hyperchromatic nuclei, irregular nuclear contours"]],"The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic","Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)","The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"],"solution":"Mildly dysplastic compound melanocytic nevus"},{"img":"img27","description":["Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia","Can be junctional or compound","General histologic features:",["Rete ridge bridging ","Architectural atypia",["Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)"],"Cytologic atypia",["Enlarged, hyperchromatic nuclei, irregular nuclear contours"]],"The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic","Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)","The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"],"solution":"Moderately dysplastic junctional melanocytic nevus"},{"img":"img32","description":["Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia", "Can be junctional or compound", "General histologic features:","Rete ridge bridging", "Architectural atypia","Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)",["Cytologic atypia",["Enlarged, hyperchromatic nuclei, irregular nuclear contours"]],"The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic","Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)","The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"],"solution":"Severely dysplastic compound melanocytic nevus"}]
+const DATA = [
+   {
+      "img":"img4",
+      "description":[
+         "Defined by the WHO as being a Spitz nevus with one or more atypical features and often harboring uncertain malignant potential",
+         "Atypical features:",
+         [
+            "Diameter >6 mm",
+            [
+               "Poor circumscription",
+               "Asymmetry",
+               "Ulceration",
+               "Increasing degrees of pagetoid spread, mitotic activity (2-6 dermal mitoses per mm2), and cytologic atypia"
+            ]
+         ],
+         "Defined by two genetic alterations"
+      ],
+      "solution":"Atypical spitz tumor"
+   },
+   {
+      "img":"img12",
+      "description":[
+         "A nevus containing two (or more) melanocytic neval components in the same lesion",
+         "Most frequent combination is a common nevus combined with a blue nevus, a deep penetrating nevus, or a spitz nevus"
+      ],
+      "solution":"Combined nevus"
+   },
+   {
+      "img":"img13",
+      "description":[
+         "Benign melanocytic naevus located in the genital region",
+         "Similar in appearance to conventional nevi; however, may have some increased cytologic or architectural atypia"
+      ],
+      "solution":"Genital nevus with special site atypia"
+   },
+   {
+      "img":"img29",
+      "description":[
+         "Benign melanocytic neoplasia present at birth or appearing in the first year of life",
+         "Histologic features:",
+         [
+            "Typically larger and extend deeper into the dermis than common acquired nevi",
+            "Wrapping around adnexal structures is a characteristic feature",
+            "Deep mitotic figures concerning for nevoid melanoma"
+         ],
+         "Molecular features:",
+         [
+            "NRAS mutations"
+         ]
+      ],
+      "solution":"Nevus Ota"
+   },
+   {
+      "img":"img8",
+      "description":[
+         "Dermal melanocytic tumor composed of dendritic, spindled, and/or ovoid cells associated with melanin pigment and stromal sclerosis",
+         "Histologic features:",
+         [
+            "Non-circumscribed dermal lesions",
+            "Consists of dendritic melanocytes containing variable amounts of melanin pigment and associated with sclerotic stromal collagen",
+            "Usually also associated with scattered melanophages",
+            "Should not have cellular atypia or mitotic figures",
+            "Characteristically lack maturation (thus this cannot be considered a feature suggestive of melanoma)",
+            "Positive for HMB45"
+         ],
+         "Molecular features:",
+         [
+            "Activating mutations in GNAQ, GNA11, or PLCB4"
+         ]
+      ],
+      "solution":"Blue nevus"
+   },
+   {
+      "img":"img9",
+      "description":[
+         "Dermal melanocytic tumor composed of dendritic, spindled, and/or ovoid cells associated with melanin pigment and stromal sclerosis",
+         "Histologic features:",
+         [
+            "Well-circumscribed, nodular dermal lesion",
+            "Consists of well-defined nests of fusiform to ovoid melanocytes surrounded by collagen and melanophages",
+            "Melanocytes typically less pigmented than dendritic blue nevi",
+            "Positive for HMB45"
+         ],
+         "Molecular features:",
+         [
+            "Activating mutations in GNAQ, GNA11, or PLCB4"
+         ]
+      ],
+      "solution":"Cellular blue nevus"
+   },
+   {
+      "img":"img30",
+      "description":[
+         "Distinct spitz nevus variant that consists of cells that are smaller than those seen in classic spitz nevi with smaller nuclei and less cytoplasm, uniformly spindled, and consistently produce large amounts of melanin ",
+         "Preferentially affects younger women (mean age: 25 years)",
+         "Atypical spindle cell tumors are PSCNs with one or more atypical features",
+         "Histologic features: ",
+         [
+            "Small, well circumscribed, symmetric",
+            "Compact, vertically oriented nests composed of heavily pigmented spindled melanocytes",
+            "Pigment should be evenly distributed",
+            "Clefting within the epidermis can be seen",
+            "Solar damage, if present, should be limited"
+         ]
+      ],
+      "solution":"Pigmented spindle cell nevus of reed"
+   },
+   {
+      "img":"img33",
+      "description":[
+         "Lentigo = increase in basal melanin",
+         "Benign lesions occurring on sun exposed skin",
+         "Consists of elongated rete ridges with a reticular interconnected pattern (dirty socks) and basilar hyperpigmentation",
+         "Often associated with a mild increase in melanocytes"
+      ],
+      "solution":"Solar Lentigo"
+   },
+   {
+      "img":"img10",
+      "description":[
+         "Localized proliferation of melanocytes along the DEJ and within the dermis",
+         "Most conventional acquired nevi have mutations in BRAFV600E",
+         "Look for size (nevi should be relatively small), symmetry ((reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)",
+         "Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)",
+         "Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)",
+         "Pigment distribution in nevi should typically be even (not irregular or patchy)",
+         "Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis",
+         "Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)",
+         "Melanocytes within the dermis should exhibit “maturation” which involves a morphologic change from type A melanocytes more superficially to Type B and/or Type C melanocytes in the deepest portions",
+         [
+            "Type A = large and epithelioid with a a tendency to nest",
+            "Type B = small lymphocyte-like",
+            "Type C = spindled with a neural look and dispersed single cell pattern",
+            "Staining for HMB45 can be used to evaluate maturation (should be strongly expressed in the superficial portion of the lesion and lost with increasing dermal depth in the presence of normal maturation)"
+         ],
+         "Clinical clues to a benign nevus:",
+         [
+            "Typically younger = more likely a nevus",
+            "Older age of the lesion = more likely a nevus",
+            "Location (melanocytic lesions situated on the milk line, on genitalia, acral skin, the ear, conjunctivae, scalp, breast, or flexural skin (ie special sites) are frequently benign despite the alarming histology)",
+            "Retained p16 expression"
+         ]
+      ],
+      "solution":"Compound melanocytic nevus"
+   },
+   {
+      "img":"img15",
+      "description":[
+         "Localized proliferation of melanocytes along the DEJ and within the dermis",
+         "Most conventional acquired nevi have mutations in BRAFV600E",
+         "Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)",
+         "Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)",
+         "Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)",
+         "Pigment distribution in nevi should typically be even (not irregular or patchy)",
+         "Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis",
+         "Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)",
+         "Melanocytes within the dermis should exhibit “maturation” which involves a morphologic change from type A melanocytes more superficially to wither Type B or Type C melanocytes in the deepest portions",
+         [
+            "Type A = large and epithelioid with a a tendency to nest",
+            "Type B = small lymphocyte-like",
+            "Type C = spindled with a neural look and dispersed single cell pattern",
+            "Staining for HMB45 can be used to evaluate maturation (should be strongly expressed in the superficial portion of the lesion and lost with increasing dermal depth in the presence of normal maturation)"
+         ],
+         "Clinical clues to a benign nevus:",
+         [
+            "Typically younger = more likely a nevus",
+            "Older age of the lesion = more likely a nevus",
+            "Location (melanocytic lesions situated on the milk line, on genitalia, acral skin, the ear, conjunctivae, scalp, breast, or flexural skin (ie special sites) are frequently benign despite the alarming histology)",
+            "Retained p16 expression"
+         ]
+      ],
+      "solution":"Intradermal melanocytic nevus"
+   },
+   {
+      "img":"img28",
+      "description":[
+         "Melanocytic naevus composed of benign naevoid melanocytes in the epidermis and superficial dermis, presenting as a patch of hyperpigmented skin containing a variable number of darkly pigmented macules and papules",
+         "Histologic features: ",
+         [
+            "Background hyperpigmented patch = elongated hyperpigmented rete ridges with slightly increased numbers of melanocytes ",
+            "Pigmented macules and papules = variable findings, including lentiginous junctional naevi, compound and intradermal naevi, compound or intradermal naevi with congenital features, Spitz naevi, blue naevi, and naevi with cytological atypia (dysplastic naevi)"
+         ]
+      ],
+      "solution":"Nevus Spilus"
+   },
+   {
+      "img":"img34",
+      "description":[
+         "Melanocytic neoplasm composed of large epithelioid and/or spindled cells with distinctive architecture",
+         "Spitz lesions termed ”nevi” are those lacking atypical features and with very low risk of neoplastic progression",
+         "Molecular features:",
+         [
+            "Defined by a single genetic alteration",
+            "Associated with different gene fusions which can impart different histologic appearances",
+            [
+               "ALK-fused = less likely to have kamino bodies, predominately spindled, wedge shaped growth pattern",
+               "NTRK1-fused = mixed spindled and epithelioid morphology, can exhibit characteristic filigree-like rete ridges that are elongated, thin and branched and often extended into or envelope superficial tumor aggregates ",
+               "BRAF-fused",
+               "ROS1-fused = confluence of whorling nests with transepidermal elimination, myxoid changes can be present"
+            ]
+         ],
+         "Histologic features:",
+         [
+            "Symmetric and well circumscribed",
+            "Consists of large vertically oriented nests of enlarged spindled to epithelioid melanocytes",
+            "The junctional nests often show clefting within the epidermis",
+            "Kamino bodies are a frequent finding (rounded, dull pink staining aggregates of basement membrane material which are PAS positive)"
+         ],
+         "Distinction from melanoma is critical; features to consider include:",
+         [
+            "Age of the lesion",
+            [
+               "True Spitz nevus in an adult should be longstanding (if new, raises concern for melanoma)"
+            ],
+            "Evidence of solar damage (solar elastosis lacking in benign lesions)",
+            "Patient age",
+            [
+               ">50 years should raise suspicion for melanoma",
+               "Purely epithelioid spitz nevi are unusual in adults",
+               "Spitz nevi in children can have marked cytologic atypia with large and multinucleated cells",
+               [
+                  "N/C ratios should be low despite the cells being enlarged",
+                  "Larger cells can have large nucleoli (smaller cells and spindled cells deeper in the lesion with prominent nucleoli should prompt concern for melanoma) "
+               ],
+               "Homogenous nature of the lesion",
+               [
+                  "Spitz nevi can have striking cytologic atypia, but should typically be homogenous throughout the lesion"
+               ],
+               "Mitotic figures",
+               [
+                  "While mitoses can be seen in Spitz nevi, large numbers, particularly deep within the lesion, should raise concern for melanoma",
+                  "Clusters of mitotic figures should also raise concern for melanoma"
+               ],
+               "Pigmentation",
+               [
+                  "Some Spitz nevi can be pigmented; however, when pigment is patchy and/or irregularly distributed should raise concern for melanoma",
+                  "Presence of Kamino bodies much more common in Spitz nevi"
+               ],
+               "Vertical extent of the lesion",
+               [
+                  "Spitz nevi almost never reach the subcutis"
+               ],
+               "Cellular density",
+               [
+                  "High cellular density favors melanoma"
+               ]
+            ]
+         ]
+      ],
+      "solution":"Spitz Nevus"
+   },
+   {
+      "img":"img31",
+      "description":[
+         "Naevus that recurs after incomplete surgical removal, biopsy, or trauma",
+         "Histologic features: ",
+         [
+            "Features of a classic nevus (either junctional, compound, or intradermal) associated with a dermal scar (parallel sclerotic collagen bundles with vertically oriented blood vessels and overlying attenuated rete ridges)",
+            "Atypical features can be seen overlying or within the area with scar (mitotic figures, cytologic atypia, and occasional pagetoid spread)"
+         ]
+      ],
+      "solution":"Recurrent nevus"
+   },
+   {
+      "img":"img1",
+      "description":[
+         "Nevus occurring on the palms, soles, or nails",
+         "Similar in appearance to conventional nevi; however, may have some increased cytologic or architectural atypia"
+      ],
+      "solution":"Acral nevus with special site atypia"
+   },
+   {
+      "img":"img14",
+      "description":[
+         "Nevus with circumferential depigmentation, often associated with a brisk lymphocytic infiltrate histopathologically",
+         "Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)",
+         "Melanocytes should be restricted to the base and sides of rete ridges (no inter-rete spread)",
+         "Nevi should not have pagetoid scatter (with the exception of nevi in children < or = 1 year)",
+         "Nevi typically have minimal to no cytologic atypia (cytologic atypia = enlarged, hyperchromatic nuclei, irregular nuclear contours) and no necrosis",
+         "Mitotic figures can be found in any melanocytic nevus, but deep mitotic figures or cytologic atypia with mitotic figures are worrisome features (some increased mitotic activity is permissible in pregnant patients)"
+      ],
+      "solution":"Halo nevus"
+   },
+   {
+      "img":"img16",
+      "description":[
+         "Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia",
+         "Can be junctional or compound",
+         "General histologic features:",
+         [
+            "Rete ridge bridging ",
+            "Architectural atypia",
+            [
+               "Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)"
+            ],
+            "Cytologic atypia",
+            [
+               "Enlarged, hyperchromatic nuclei, irregular nuclear contours"
+            ]
+         ],
+         "The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic",
+         "Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)",
+         "The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"
+      ],
+      "solution":"Mildly dysplastic compound melanocytic nevus"
+   },
+   {
+      "img":"img27",
+      "description":[
+         "Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia",
+         "Can be junctional or compound",
+         "General histologic features:",
+         [
+            "Rete ridge bridging ",
+            "Architectural atypia",
+            [
+               "Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)"
+            ],
+            "Cytologic atypia",
+            [
+               "Enlarged, hyperchromatic nuclei, irregular nuclear contours"
+            ]
+         ],
+         "The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic",
+         "Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)",
+         "The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"
+      ],
+      "solution":"Moderately dysplastic junctional melanocytic nevus"
+   },
+   {
+      "img":"img32",
+      "description":[
+         "Subset of melanocytic naevi that are clinically atypical and characterized histologically by architectural disorder and cytological atypia",
+         "Can be junctional or compound",
+         "General histologic features:",
+         [
+            "Rete ridge bridging ",
+            "Architectural atypia",
+            [
+               "Look for size (nevi should be relatively small), symmetry (reassuring feature if you can draw a line down the center of the lesion and the two halves are almost exactly the same), and circumscription (nevi should start and end in a nest)"
+            ],
+            "Cytologic atypia",
+            [
+               "Enlarged, hyperchromatic nuclei, irregular nuclear contours"
+            ]
+         ],
+         "The degree of cytologic atypia and architectural atypia determine whether the lesion is mildly, moderately, or severely dysplastic",
+         "Crucial features suggesting melanoma over a dysplastic nevus = significant pagetoid scatter, diffuse increased cytologic atypia, dermal mitotic figures, and occurrence on severely sun damaged skin (lots of solar elastosis)",
+         "The presence of pigmented parakeratosis is suggestive of trauma and should lend less weight to certain worrisome features"
+      ],
+      "solution":"Severely dysplastic compound melanocytic nevus"
+   }
+]
