@@ -1,6 +1,8 @@
 (function () {
 	"use strict";
 
+	console.log('v4');
+
 	const CARD_URL_BASE = "./still_images/"
 	const CARD_URL_EXT = ".jpg"
 
@@ -60,8 +62,8 @@
 		$main.addClass('roundedWhite');
 		let $card = $('<div>', {class:"flip-card"}).appendTo($main);
 		let $innercard = $('<div>', {class:"flip-card-inner"}).appendTo($card)
-		let $front = $('<div>', {class: "flip-card-front"}).appendTo($innercard);
-		let $back = $('<div>', {class: "flip-card-back cover-container d-flex w-100 h-100 p-3 mx-auto flex-column"}).appendTo($innercard);
+		let $front = $('<div>', {id: "flip-card-front", class: "flip-card-front"}).appendTo($innercard);
+		let $back = $('<div>', {id: "flip-card-back", class: "flip-card-back cover-container d-flex w-100 h-100 p-3 mx-auto flex-column"}).appendTo($innercard);
 		
 		// add solution on back
 		$('<header>',{class: "mb-auto"}).appendTo($back);
@@ -93,6 +95,14 @@
 		//add flip buttons
 		let flipFunc = function (evt) {
 			evt.preventDefault();
+			let z = $('#flip-card-front').css('z-index');
+			if (z === "9") {
+				$('#flip-card-front').css('z-index', "8");
+				$('#flip-card-back').css('z-index', "9");
+			} else {
+				$('#flip-card-front').css('z-index', "9");
+				$('#flip-card-back').css('z-index', "8");
+			}
 			descrip.hider(function () {
 				$card.toggleClass("flipit");
 			});
