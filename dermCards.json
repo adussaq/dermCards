@@ -1,4 +1,4 @@
-const DATA = [
+let DATA = [
    {
       "img":"img4",
       "description":[
